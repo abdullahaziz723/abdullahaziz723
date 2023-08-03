@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Netflix-clone**
 
-- 🌱 I’m currently learning **JAVA,FRONTEND**
+- 🌱 I’m currently learning **JAVA,HTML,CSS**
 
 - 📫 How to reach me **abdullahaziz723@gmail.com**
 
