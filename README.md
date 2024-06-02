@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahaziz723&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahaziz723" /> </p>
 
-- 🔭 I’m currently working on **Netflix-clone**
+- 🔭 I’m currently working on **App-Dev Project**
 
 - 🌱 I’m currently learning **JAVA,HTML,CSS**
 
